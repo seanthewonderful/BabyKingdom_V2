@@ -1,0 +1,30 @@
+
+.baby-cards {
+    display: flex;
+    flex-flow: row wrap;
+    position: absolute;
+    top: 45%;
+    margin: 1%;
+}
+
+.baby-card {
+    margin: 1%;
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 0, 0.639);
+}
+
+#baby-img {
+    height: 200px;
+    max-width: 200px;
+}
+
+dt {
+    font-size: 1em;
+    font-style: italic;
+}
+dd {
+    font-size: 1.1em;
+    font-style: normal;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

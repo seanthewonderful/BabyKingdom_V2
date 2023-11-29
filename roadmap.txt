@@ -1,0 +1,18 @@
+
+Components Needed:
+- Home
+    - Header Nav
+        - Title
+        - Battle button
+        - Bootcamp button
+- Battle
+- Bootcamp
+- Page title text
+- Babies and scrolling text 
+- Baby barracks button
+     - Baby card
+
+
+State Values: 
+- 
+

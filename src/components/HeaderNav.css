@@ -1,0 +1,21 @@
+#navbar a.active {
+    color: gray;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 99vw;
+    border: 2px solid maroon;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2.5rem !important;
+}
+
+.navdiv {
+    display: flex;
+    justify-content: space-around;
+}
