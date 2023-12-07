@@ -105,6 +105,10 @@ Baby.init(
             type: DataTypes.JSON,
             values: ['class', 'name'],
         },
+    },
+    {
+        modelName: 'baby',
+        sequelize: db,
     }
 )
 
@@ -128,6 +132,10 @@ Match.init(
             type: DataTypes.INTEGER,
             allowNull: true
         }
+    },
+    {
+        modelName: 'match',
+        sequelize: db,
     }
 )
 
